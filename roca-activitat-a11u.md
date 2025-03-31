@@ -5,7 +5,7 @@
 - **Formatge** 
 
 
-#Taula de 3 columnes i 3 files
+#Taula de 3 columnes i 3 files !
 
 | Ingredients   | Quantitat | ubicació         |
 |---------------|-----------|------------------|
