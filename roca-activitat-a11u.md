@@ -2,7 +2,7 @@
 
 Utilitzarem aquest repositori per diferents tipus de practiques
 
-## Ingredients essencials 
+## Ingredients essencials (llista de 3 elements)
 - **Pa**
 - **kechup** 
 - **Formatge** 
