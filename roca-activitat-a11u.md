@@ -7,7 +7,7 @@ Utilitzarem aquest repositori per diferents tipus de practiques
 - **kechup** 
 - **Formatge** 
 
-###  Taula de 3 columnes i 3 files !
+###  Taula de 3 columnes i 2 files !
 
 | Ingredients   | Quantitat | ubicació         |
 |---------------|-----------|------------------|
